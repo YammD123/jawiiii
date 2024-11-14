@@ -2,14 +2,20 @@
     height: 111px;
 }
 
+
+
 .asal{
     width: 40vw;
 }
+
+
 
 .huruf{
     width: 40vw;
     border-radius: 90px;
 }
+
+
 
 .huruf-jawa{
     margin-left: 950px;
@@ -19,6 +25,8 @@
     width: 40vw;
 }
 
+
+
 .angka{
     margin-left: 950px;
 }
@@ -27,11 +35,16 @@
     width: 40vw;
 }
 
+
+
 .nav{
     margin-right: 600px;
 }
 
+
+
 .b{
     width: 64px;
 }
+
 
